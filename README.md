@@ -27,18 +27,18 @@ Sigue estos pasos para instalar y ejecutar los juegos en tu máquina local.
 ```bash
 git clone https://github.com/tu_usuario/juego_coordinacion_guante.git
 cd juego_coordinacion_guante
-
+```
 ### Crear y Activar el Entorno Virtual
 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-
+```
 ### Instalar Dependencias
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## 🚀 Uso
 
 Para iniciar los juegos, asegúrate de estar en el directorio `src` y ejecuta el script `main.py`:
@@ -46,7 +46,7 @@ Para iniciar los juegos, asegúrate de estar en el directorio `src` y ejecuta el
 ```bash
 cd src
 python3 main.py
-
+```
 
 ## 🎮 Controles
 
